@@ -6,11 +6,11 @@
   Automação de testes E2E
 </h3>
 
-##  Cypress
+## 📁 Cypress
 
 O [Cypress](https://www.cypress.io/) é uma ferramenta de automação end-to-end que permite escrever testes em JavaScript.
 
-## 📁 O que eu aprendi
+## 🧠 O que eu aprendi
 
 - Comandos básicos do Cypress;
 - Interação e identificação de elementos HTML;
