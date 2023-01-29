@@ -1,0 +1,17 @@
+{
+  "name": "aula-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "npx cypress open",
+    "test:run": "npx cypress run",
+    "test:mochawesome": "npx cypress run --reporter mochawesome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.4.1",
+    "mochawesome": "^7.1.3"
+  }
+}
